@@ -1,0 +1,6 @@
+D:\Project_Bristy\UpperToLowerApp6\UpperToLowerApp6\bin\Debug\UpperToLowerApp6.exe.config
+D:\Project_Bristy\UpperToLowerApp6\UpperToLowerApp6\bin\Debug\UpperToLowerApp6.exe
+D:\Project_Bristy\UpperToLowerApp6\UpperToLowerApp6\bin\Debug\UpperToLowerApp6.pdb
+D:\Project_Bristy\UpperToLowerApp6\UpperToLowerApp6\obj\Debug\UpperToLowerApp6.csprojResolveAssemblyReference.cache
+D:\Project_Bristy\UpperToLowerApp6\UpperToLowerApp6\obj\Debug\UpperToLowerApp6.exe
+D:\Project_Bristy\UpperToLowerApp6\UpperToLowerApp6\obj\Debug\UpperToLowerApp6.pdb

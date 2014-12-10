@@ -1,0 +1,6 @@
+D:\Project_Bristy\SmallAndBigNumberFind_App\SmallAndBigNumberFind_App\bin\Debug\SmallAndBigNumberFind_App.exe.config
+D:\Project_Bristy\SmallAndBigNumberFind_App\SmallAndBigNumberFind_App\bin\Debug\SmallAndBigNumberFind_App.exe
+D:\Project_Bristy\SmallAndBigNumberFind_App\SmallAndBigNumberFind_App\bin\Debug\SmallAndBigNumberFind_App.pdb
+D:\Project_Bristy\SmallAndBigNumberFind_App\SmallAndBigNumberFind_App\obj\Debug\SmallAndBigNumberFind_App.csprojResolveAssemblyReference.cache
+D:\Project_Bristy\SmallAndBigNumberFind_App\SmallAndBigNumberFind_App\obj\Debug\SmallAndBigNumberFind_App.exe
+D:\Project_Bristy\SmallAndBigNumberFind_App\SmallAndBigNumberFind_App\obj\Debug\SmallAndBigNumberFind_App.pdb

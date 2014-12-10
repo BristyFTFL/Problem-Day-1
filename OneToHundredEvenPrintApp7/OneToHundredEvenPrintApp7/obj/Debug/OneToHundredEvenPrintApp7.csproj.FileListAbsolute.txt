@@ -1,0 +1,6 @@
+D:\Project_Bristy\OneToHundredEvenPrintApp7\OneToHundredEvenPrintApp7\bin\Debug\OneToHundredEvenPrintApp7.exe.config
+D:\Project_Bristy\OneToHundredEvenPrintApp7\OneToHundredEvenPrintApp7\bin\Debug\OneToHundredEvenPrintApp7.exe
+D:\Project_Bristy\OneToHundredEvenPrintApp7\OneToHundredEvenPrintApp7\bin\Debug\OneToHundredEvenPrintApp7.pdb
+D:\Project_Bristy\OneToHundredEvenPrintApp7\OneToHundredEvenPrintApp7\obj\Debug\OneToHundredEvenPrintApp7.csprojResolveAssemblyReference.cache
+D:\Project_Bristy\OneToHundredEvenPrintApp7\OneToHundredEvenPrintApp7\obj\Debug\OneToHundredEvenPrintApp7.exe
+D:\Project_Bristy\OneToHundredEvenPrintApp7\OneToHundredEvenPrintApp7\obj\Debug\OneToHundredEvenPrintApp7.pdb

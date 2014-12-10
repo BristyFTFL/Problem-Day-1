@@ -1,0 +1,12 @@
+D:\Project_Bristy\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+D:\Project_Bristy\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+D:\Project_Bristy\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+D:\Project_Bristy\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
+D:\Project_Bristy\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+D:\Project_Bristy\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+F:\Bristy\Project_Bristy\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+F:\Bristy\Project_Bristy\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+F:\Bristy\Project_Bristy\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+F:\Bristy\Project_Bristy\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+F:\Bristy\Project_Bristy\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+F:\Bristy\Project_Bristy\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
